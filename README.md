@@ -17,7 +17,7 @@ Desktop View:
 
 Mobile View:
 
-![Mobile](screenshots/2.png)
+![Mobile](screenshots/2.png | width=100)
 
 ## Built With
 
